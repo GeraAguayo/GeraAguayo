@@ -1,4 +1,4 @@
-Hello there 👋 My name is Gerardo Aguayo
+Hello there, my name is Gerardo Aguayo
 ===============================
 
 Backend developer
@@ -11,8 +11,8 @@ Passionate coder since high school. from web pages to games, every project is a 
 *   🧠  I'm learning OS programming
 *   🤝  I'm open to collaborating on any project
 *   ⚡  I love F1 & space shuttles
-*
-*   ### Skills
+
+### Skills
 <p align="left">
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -31,5 +31,5 @@ Passionate coder since high school. from web pages to games, every project is a 
                           
   <a href="https://www.twitter.com/GeraAguayo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
   
-  ### Badges<b>My GitHub Stats</b>
+### Badges<b>My GitHub Stats</b>
   <a href="http://www.github.com/GeraAguayo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GeraAguayo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
