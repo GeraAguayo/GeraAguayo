@@ -7,10 +7,10 @@ Passionate coder since high school. from web pages to games, every project is a 
 
 *   🌍  I'm based in Mexico
 *   ✉️  You can contact me at [geraaguayoc@gmail.com](mailto:geraaguayoc@gmail.com)
-*   🚀  I'm currently working at SIMA
+*   🚀  I'm currently working at PPG
 *   🧠  I'm learning OS programming
 *   🤝  I'm open to collaborating on any project
-*   ⚡  I love F1 & space shuttles
+
 
 ### Skills
 <p align="left">
